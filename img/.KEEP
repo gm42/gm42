@@ -1,0 +1,4 @@
+freq = 3600
+state = up
+night_freq=7200
+weekend_freq=10800
